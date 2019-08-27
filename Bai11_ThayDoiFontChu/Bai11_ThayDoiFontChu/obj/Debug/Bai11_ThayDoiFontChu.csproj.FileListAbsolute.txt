@@ -1,0 +1,10 @@
+D:\C#\Bai11_ThayDoiFontChu\Bai11_ThayDoiFontChu\bin\Debug\Bai11_ThayDoiFontChu.exe.config
+D:\C#\Bai11_ThayDoiFontChu\Bai11_ThayDoiFontChu\bin\Debug\Bai11_ThayDoiFontChu.exe
+D:\C#\Bai11_ThayDoiFontChu\Bai11_ThayDoiFontChu\bin\Debug\Bai11_ThayDoiFontChu.pdb
+D:\C#\Bai11_ThayDoiFontChu\Bai11_ThayDoiFontChu\obj\Debug\Bai11_ThayDoiFontChu.csprojAssemblyReference.cache
+D:\C#\Bai11_ThayDoiFontChu\Bai11_ThayDoiFontChu\obj\Debug\Bai11_ThayDoiFontChu.Form1.resources
+D:\C#\Bai11_ThayDoiFontChu\Bai11_ThayDoiFontChu\obj\Debug\Bai11_ThayDoiFontChu.Properties.Resources.resources
+D:\C#\Bai11_ThayDoiFontChu\Bai11_ThayDoiFontChu\obj\Debug\Bai11_ThayDoiFontChu.csproj.GenerateResource.cache
+D:\C#\Bai11_ThayDoiFontChu\Bai11_ThayDoiFontChu\obj\Debug\Bai11_ThayDoiFontChu.csproj.CoreCompileInputs.cache
+D:\C#\Bai11_ThayDoiFontChu\Bai11_ThayDoiFontChu\obj\Debug\Bai11_ThayDoiFontChu.exe
+D:\C#\Bai11_ThayDoiFontChu\Bai11_ThayDoiFontChu\obj\Debug\Bai11_ThayDoiFontChu.pdb

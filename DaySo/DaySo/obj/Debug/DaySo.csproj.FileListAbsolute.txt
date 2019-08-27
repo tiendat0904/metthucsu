@@ -1,0 +1,10 @@
+D:\C#\DaySo\DaySo\bin\Debug\DaySo.exe.config
+D:\C#\DaySo\DaySo\bin\Debug\DaySo.exe
+D:\C#\DaySo\DaySo\bin\Debug\DaySo.pdb
+D:\C#\DaySo\DaySo\obj\Debug\DaySo.csprojAssemblyReference.cache
+D:\C#\DaySo\DaySo\obj\Debug\DaySo.Form1.resources
+D:\C#\DaySo\DaySo\obj\Debug\DaySo.Properties.Resources.resources
+D:\C#\DaySo\DaySo\obj\Debug\DaySo.csproj.GenerateResource.cache
+D:\C#\DaySo\DaySo\obj\Debug\DaySo.csproj.CoreCompileInputs.cache
+D:\C#\DaySo\DaySo\obj\Debug\DaySo.exe
+D:\C#\DaySo\DaySo\obj\Debug\DaySo.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai11_ThayDoiFontChu", "Bai11_ThayDoiFontChu\Bai11_ThayDoiFontChu.csproj", "{DF45401E-7847-410C-A680-E4048FB556E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChuongTrinhTinhTong", "ChuongTrinhTinhTong\ChuongTrinhTinhTong.csproj", "{CEA41709-282A-4817-A529-EA8FC78267B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF45401E-7847-410C-A680-E4048FB556E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF45401E-7847-410C-A680-E4048FB556E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF45401E-7847-410C-A680-E4048FB556E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF45401E-7847-410C-A680-E4048FB556E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEA41709-282A-4817-A529-EA8FC78267B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEA41709-282A-4817-A529-EA8FC78267B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEA41709-282A-4817-A529-EA8FC78267B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEA41709-282A-4817-A529-EA8FC78267B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D64B9965-F9BF-4194-B783-DB6222AECA9F}
+	EndGlobalSection
+EndGlobal

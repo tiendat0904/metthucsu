@@ -1,0 +1,10 @@
+D:\C#\Bai11_ThayDoiFontChu\ChuongTrinhTinhTong\bin\Debug\ChuongTrinhTinhTong.exe.config
+D:\C#\Bai11_ThayDoiFontChu\ChuongTrinhTinhTong\bin\Debug\ChuongTrinhTinhTong.exe
+D:\C#\Bai11_ThayDoiFontChu\ChuongTrinhTinhTong\bin\Debug\ChuongTrinhTinhTong.pdb
+D:\C#\Bai11_ThayDoiFontChu\ChuongTrinhTinhTong\obj\Debug\ChuongTrinhTinhTong.Form1.resources
+D:\C#\Bai11_ThayDoiFontChu\ChuongTrinhTinhTong\obj\Debug\ChuongTrinhTinhTong.Properties.Resources.resources
+D:\C#\Bai11_ThayDoiFontChu\ChuongTrinhTinhTong\obj\Debug\ChuongTrinhTinhTong.csproj.GenerateResource.cache
+D:\C#\Bai11_ThayDoiFontChu\ChuongTrinhTinhTong\obj\Debug\ChuongTrinhTinhTong.csproj.CoreCompileInputs.cache
+D:\C#\Bai11_ThayDoiFontChu\ChuongTrinhTinhTong\obj\Debug\ChuongTrinhTinhTong.exe
+D:\C#\Bai11_ThayDoiFontChu\ChuongTrinhTinhTong\obj\Debug\ChuongTrinhTinhTong.pdb
+D:\C#\Bai11_ThayDoiFontChu\ChuongTrinhTinhTong\obj\Debug\ChuongTrinhTinhTong.csprojAssemblyReference.cache
