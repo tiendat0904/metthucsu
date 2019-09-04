@@ -53,9 +53,9 @@
             // 
             this.tb_chu.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.tb_chu.ForeColor = System.Drawing.Color.Black;
-            this.tb_chu.Location = new System.Drawing.Point(163, 53);
+            this.tb_chu.Location = new System.Drawing.Point(12, 53);
             this.tb_chu.Name = "tb_chu";
-            this.tb_chu.Size = new System.Drawing.Size(451, 38);
+            this.tb_chu.Size = new System.Drawing.Size(756, 38);
             this.tb_chu.TabIndex = 1;
             this.tb_chu.Text = "Bài Thi Môn Tin Học Đại Cương";
             this.tb_chu.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
@@ -99,6 +99,7 @@
             this.comboBox_kichthuoc.Name = "comboBox_kichthuoc";
             this.comboBox_kichthuoc.Size = new System.Drawing.Size(121, 24);
             this.comboBox_kichthuoc.TabIndex = 1;
+            this.comboBox_kichthuoc.SelectedIndexChanged += new System.EventHandler(this.ComboBox_kichthuoc_SelectedIndexChanged);
             // 
             // comboBox_font
             // 
@@ -182,6 +183,7 @@
             this.radioButton_den.TabStop = true;
             this.radioButton_den.Text = "Đen";
             this.radioButton_den.UseVisualStyleBackColor = true;
+            this.radioButton_den.CheckedChanged += new System.EventHandler(this.RadioButton_den_CheckedChanged);
             // 
             // radioButton_xanhla
             // 
@@ -194,6 +196,7 @@
             this.radioButton_xanhla.TabStop = true;
             this.radioButton_xanhla.Text = "Xanh Lá Cây";
             this.radioButton_xanhla.UseVisualStyleBackColor = true;
+            this.radioButton_xanhla.CheckedChanged += new System.EventHandler(this.RadioButton_xanhla_CheckedChanged);
             // 
             // radioButton_do
             // 
@@ -206,6 +209,7 @@
             this.radioButton_do.TabStop = true;
             this.radioButton_do.Text = "Đỏ";
             this.radioButton_do.UseVisualStyleBackColor = true;
+            this.radioButton_do.CheckedChanged += new System.EventHandler(this.RadioButton_do_CheckedChanged);
             // 
             // button_lamlai
             // 
